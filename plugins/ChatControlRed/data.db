@@ -1,0 +1,148 @@
+Essentials_User_Map_Imported: false
+Tour_Completed: true
+Players:
+  4ed8922d-8e9e-4b7f-b8df-a7329fb595da:
+    Name: _Joness_
+    Channels:
+      english: write
+    Last_Active: 1650721705775
+  f9dd5e0f-0d65-4f18-b6a9-6142898c4883:
+    Name: Fuglen
+    Channels:
+      english: write
+      staff: read
+      danish: read
+      helpop: read
+    Spying_Sectors:
+    - command
+    - chat
+    - sign
+    - book
+    - mail
+    - anvil
+    - private_message
+    Spying_Channels:
+    - English
+    - Staff
+    - Danish
+    - Helpop
+    Last_Active: 1656943177886
+  75274f2b-c381-4615-8cb3-1b3a0acac583:
+    Name: KatieDeForest
+    Channels:
+      english: write
+    Spying_Sectors:
+    - sign
+    - command
+    - mail
+    - private_message
+    - book
+    - chat
+    - anvil
+    Spying_Channels:
+    - English
+    - Staff
+    - Danish
+    - Helpop
+    Last_Active: 1657121887189
+  29cac54f-3464-458a-aee1-bdecbee257df:
+    Name: Daffylo
+    Channels:
+      english: write
+    Last_Active: 1649705945848
+  9d0ce26f-5750-48d2-961f-59e1a4ca7c9e:
+    Name: Sabinegh
+    Channels:
+      english: write
+    Last_Active: 1650114008275
+  2d668561-c6d9-4880-9c43-5621c31beb66:
+    Name: SimonBird883
+    Channels:
+      english: write
+      staff: read
+      danish: read
+      helpop: read
+    Spying_Sectors:
+    - book
+    - chat
+    - private_message
+    - mail
+    - command
+    - anvil
+    - sign
+    Spying_Channels:
+    - English
+    - Staff
+    - Danish
+    - Helpop
+    Last_Active: 1650912711271
+  302a4094-299c-4843-ba76-5bca5f5608b6:
+    Name: Laukage
+    Channels:
+      english: write
+    Last_Active: 1650381783175
+  87fea604-f082-4f1c-8931-3faf236e786a:
+    Name: MKR04
+    Channels:
+      english: write
+    Last_Active: 1650648951475
+  8f3b61e8-4025-4cb3-97d6-78c1d6abe8f1:
+    Name: Neerle
+    Channels:
+      english: write
+    Last_Active: 1652716693613
+  d40fbc36-7c6f-474e-96fb-bf93a42fc6b6:
+    Name: NovaPhantom23
+    Channels:
+      english: write
+    Last_Active: 1652822022364
+  20e61a12-25d7-4948-8439-1554851088e6:
+    Name: Pink_soul
+    Channels:
+      english: write
+    Last_Active: 1654898094007
+  be3b99ad-0a0c-49c5-bf32-1710feb122ae:
+    Name: Im_Trofast
+    Channels:
+      english: write
+    Last_Active: 1655907149275
+  ce0f29c9-52a3-40f8-8191-35b591973b6a:
+    Name: ComboHT
+    Channels:
+      english: write
+    Last_Active: 1655930560018
+  89032b97-242c-4920-94a6-7a5067199e94:
+    Name: Natti_XD
+    Channels:
+      english: write
+    Last_Active: 1655929521268
+  b8d27693-a94b-42e7-a0d2-3fb27560003b:
+    Name: Dkbay
+    Channels:
+      english: write
+    Last_Active: 1656023830318
+  f6542eee-0442-449e-bcbc-28b115e0d048:
+    Name: pro2003gg
+    Channels:
+      english: write
+    Last_Active: 1656879401183
+  abdf7ab4-e107-4208-8eb7-7cfcbffb1c78:
+    Name: Zommbi2200
+    Channels:
+      english: write
+    Last_Active: 1656877756555
+  2f6da6a5-62b4-45a7-bfe5-ae70990cfa60:
+    Name: Dvwood
+    Channels:
+      english: write
+    Last_Active: 1656882922369
+  58451f79-1ca4-452d-b5d7-a30b6f3ea516:
+    Name: P0larbear_
+    Channels:
+      english: write
+    Last_Active: 1656883255175
+  5708b5f6-f4eb-4eec-8cde-9d37b2991772:
+    Name: magn4965
+    Channels:
+      english: write
+    Last_Active: 1656944800335

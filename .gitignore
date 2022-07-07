@@ -1,0 +1,14 @@
+
+/server.jar
+/world
+/libraries
+/logs
+*.jar
+/versions
+/plugins/dynmap/
+.vscode-server
+.ssh
+.local
+.cache
+cache
+*userdata*
