@@ -1,0 +1,14 @@
+{
+    "name": "TFB-Creative",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/home/container/TFB,type=bind",
+    "workspaceFolder": "/home/container/TFB",
+    "dockerComposeFile": "../../docker-compose.yml",
+    "service": "creative",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "liximomo.sftp"
+            ]
+        }
+    }
+}
