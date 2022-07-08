@@ -1,0 +1,3 @@
+[submodule "pluGET"]
+	path = pluGET
+	url = https://github.com/theflyingbirdsmc/pluGET.git
